@@ -1,1 +1,1 @@
-#base de datos editado dos veces
+#base de datos editado dos veces para el amin
